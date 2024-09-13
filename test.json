@@ -1,0 +1,176 @@
+{
+    "mushrooms": [
+      {
+        "name": "Macrolepiota procera (เห็ดกระโดง)",
+        "cap": "หมวกคว่ำ",
+        "cap_texture": "มีเกล็ด",
+        "cap_color": "ขาว white",
+        "gill_color": "ขาว",
+        "stem": "ทรงกระบอก",
+        "ring": "มี"
+      },
+      {
+        "name": "Macrolepiota procera (เห็ดกระโดง)",
+        "cap": "หมวกแบน",
+        "cap_texture": "มีเกล็ด",
+        "cap_color": "ขาว white",
+        "gill_color": "ขาว",
+        "stem": "ทรงกระบอก",
+        "ring": "มี"
+      },
+      {
+        "name": "Schizophyllum commune (เห็ดตีนตุ๊กแก)",
+        "cap": "ทรงพัด",
+        "cap_texture": "มีเส้นใย",
+        "cap_color": "ขาว white",
+        "gill_color": "น้ำตาล",
+        "stem": "ไม่มี",
+        "ring": "ไม่มี"
+      },
+      {
+        "name": "Schizophyllum commune (เห็ดตีนตุ๊กแก)",
+        "cap": "ทรงพัด",
+        "cap_texture": "มีเส้นใย",
+        "cap_color": "น้ำตาล brown",
+        "gill_color": "น้ำตาล",
+        "stem": "ไม่มี",
+        "ring": "ไม่มี"
+      },
+      {
+        "name": "Gyromitra esculenta (เห็ดสมองวัว)",
+        "cap": "ไม่ทราบ",
+        "cap_texture": "ขรุขระ",
+        "cap_color": "น้ำตาล brown",
+        "gill_color": "ไม่มี",
+        "stem": "ป้อม",
+        "ring": "ไม่มี"
+      },
+      {
+        "name": "Gyromitra esculenta (เห็ดสมองวัว)",
+        "cap": "รูปอานม้า saddle",
+        "cap_texture": "ลอน wave",
+        "cap_color": "น้ำตาล brown",
+        "gill_color": "ไม่มี",
+        "stem": "ป้อม",
+        "ring": "ไม่มี"
+      },
+      {
+        "name": "Lepista nuda (เห็ดชงโค)",
+        "cap": "หมวกคว่ำ",
+        "cap_texture": "เรียบ",
+        "cap_color": "น้ำตาล brown",
+        "gill_color": "น้ำตาล",
+        "stem": "ทรงกระบอก",
+        "ring": "ไม่มี"
+      },
+      {
+        "name": "Lepista nuda (เห็ดชงโค)",
+        "cap": "หมวกคว่ำ",
+        "cap_texture": "เรียบ",
+        "cap_color": "ม่วง purple",
+        "gill_color": "ม่วง purple",
+        "stem": "ทรงกระบอก",
+        "ring": "ไม่มี"
+      },
+      {
+        "name": "Ganoderma applanatum (เห็ดหูช้าง)",
+        "cap": "ทรงพัด",
+        "cap_texture": "ขรุขระ",
+        "cap_color": "น้ำตาล brown",
+        "gill_color": "ไม่มี",
+        "stem": "ไม่มี",
+        "ring": "ไม่มี"
+      },
+      {
+        "name": "Ganoderma applanatum (เห็ดหูช้าง)",
+        "cap": "ครึ่งวงกลม semicircle",
+        "cap_texture": "ขรุขระ",
+        "cap_color": "น้ำตาล brown",
+        "gill_color": "ไม่มี",
+        "stem": "ไม่มี",
+        "ring": "ไม่มี"
+      },
+      {
+        "name": "Cantharellus cibarius (เห็ดมันปู)",
+        "cap": "ทรงกรวย",
+        "cap_texture": "เรียบ",
+        "cap_color": "เหลือง yellow",
+        "gill_color": "เหลือง",
+        "stem": "ทรงกระบอก",
+        "ring": "ไม่มี"
+      },
+      {
+        "name": "Cantharellus cibarius (เห็ดมันปู)",
+        "cap": "ปากแตร cuspidor",
+        "cap_texture": "เรียบ",
+        "cap_color": "เหลือง yellow",
+        "gill_color": "เหลือง",
+        "stem": "ทรงกระบอก",
+        "ring": "ไม่มี"
+      },
+      {
+        "name": "Coprinellus disseminatus (เห็ดหมวกคุ่ม)",
+        "cap": "หมวกคว่ำ",
+        "cap_texture": "ร่อง",
+        "cap_color": "น้ำตาล brown",
+        "gill_color": "ขาว",
+        "stem": "ทรงกระบอก",
+        "ring": "ไม่มี"
+      },
+      {
+        "name": "Coprinellus disseminatus (เห็ดหมวกคุ่ม)",
+        "cap": "หมวกคว่ำ",
+        "cap_texture": "ร่อง",
+        "cap_color": "ขาว white",
+        "gill_color": "ขาว",
+        "stem": "ทรงกระบอก",
+        "ring": "ไม่มี"
+      },
+      {
+        "name": "Amanita muscaria (เห็ดเกล็ดดาว)",
+        "cap": "หมวกคว่ำ",
+        "cap_texture": "มีเกล็ด",
+        "cap_color": "แดง red",
+        "gill_color": "ขาว",
+        "stem": "ทรงกระบอก",
+        "ring": "มี"
+      },
+      {
+        "name": "Amanita pantherine (เห็ดเกล็ดดาว)",
+        "cap": "หมวกคว่ำ",
+        "cap_texture": "มีเกล็ด",
+        "cap_color": "น้ำตาล brown",
+        "gill_color": "ขาว",
+        "stem": "ทรงกระบอก",
+        "ring": "มี"
+      },
+      {
+        "name": "Amanita hemibapha (เห็ดไข่ไก่)",
+        "cap": "หมวกคว่ำ",
+        "cap_texture": "เรียบ",
+        "cap_color": "ส้ม",
+        "gill_color": "เหลือง",
+        "stem": "ทรงกระบอก",
+        "ring": "มี"
+      },
+      {
+        "name": "Hygrocybe Cantharellus (เห็ดประทัดจีน)",
+        "cap": "หมวกคว่ำ",
+        "cap_texture": "เรียบ",
+        "cap_color": "แดง red",
+        "gill_color": "เหลือง",
+        "stem": "ทรงกระบอก",
+        "ring": "ไม่มี"
+      },
+      {
+        "name": "Boletus edulis (เห็ดตับเต่าขนมปังกระโหลก)",
+        "cap": "หมวกคว่ำ",
+        "cap_texture": "เรียบ",
+        "cap_color": "น้ำตาล brown",
+        "gill_color": "ขาว",
+        "stem": "ทรงกระบอก",
+        "ring": "ไม่มี"
+      }
+    ]
+  }
+  
